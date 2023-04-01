@@ -7,9 +7,9 @@ The following two datasets were analyzed
 
 1. Qian, Yifei, Humphries, Grant, Trathan, Philip, Lowther, Andrew, & Donovan, Carl. (2023). Counting animals in aerial images with a density map estimation model [Data set].
 
-- Jupyter Notebook
-- Sample file 1 Jack
-- Sample file 2 Maisie
+- [Jupyter Notebook](https://github.com/skyprince999/Drone_Imagery/blob/main/Drone%20Images%20database%20metadata%20%5BDan%5D.ipynb)
+- [Sample annotation 1 Jack](https://github.com/skyprince999/Drone_Imagery/blob/main/jack_sample.png)
+- [Sample annotation 2 Maisie](https://github.com/skyprince999/Drone_Imagery/blob/main/maisie.png)
 
 
 
